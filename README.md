@@ -9,3 +9,6 @@ ADMIN PAGE http://localhost/ecommerce/admin/
 Username : harsha Password : admin
 
 CUSTOMER PAGE http://localhost/ecommerce/
+
+Final Project Report :
+[Hand Made Products Management System”.pdf](https://github.com/harsharajb/HandMade_product_management_system/files/12077497/Hand.Made.Products.Management.System.pdf)
