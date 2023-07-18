@@ -5,6 +5,7 @@ The Handmade Product Management System is a comprehensive software solution desi
 By leveraging robust data management capabilities, the Handmade Product Management System streamlines various operations and offers numerous benefits to businesses and artisans.
 
 ADMIN PAGE http://localhost/ecommerce/admin/ 
+
 Username : harsha Password : admin
 
 CUSTOMER PAGE http://localhost/ecommerce/
