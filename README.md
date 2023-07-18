@@ -12,3 +12,7 @@ CUSTOMER PAGE http://localhost/ecommerce/
 
 Final Project Report :
 [Hand Made Products Management System”.pdf](https://github.com/harsharajb/HandMade_product_management_system/files/12077497/Hand.Made.Products.Management.System.pdf)
+
+DEMO :
+https://github.com/harsharajb/HandMade_product_management_system/assets/109401373/431992e3-9a3e-4666-b669-3c28e1d7446f
+
