@@ -14,5 +14,5 @@ Final Project Report :
 [Hand Made Products Management System”.pdf](https://github.com/harsharajb/HandMade_product_management_system/files/12077497/Hand.Made.Products.Management.System.pdf)
 
 DEMO :
-https://github.com/thekirankumarv/HandmadeProductManagementSystem/assets/98585389/75468095-f5ff-445b-a5ad-b066e268a930
+https://github.com/harsharajb/HandMade_product_management_system/assets/109401373/e700ba58-1cce-4e66-8d6e-7407d3f6170e
 
